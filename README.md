@@ -1,7 +1,6 @@
 # Welcome!
 
-Name: Alexander Lalejini
-
+Name: Alexander Lalejini </br>
 Pronouns: he/him/his
 
 I'm an Assistant Professor at Grand Valley State University in the School of Computing.
